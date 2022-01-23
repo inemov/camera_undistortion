@@ -17,7 +17,7 @@ Click Open for Image directory and select a folder that contains original distor
 The application will analyse the original distorted images, calculate an undistortion matrix and after applying it will also save undistorted images to the 'undistorted' directory.
 Both original distorted and undistorted images can be viewed using 'Original view' and 'Undistorted view' radio buttons and Previous/Next buttons.
 
-- origina distorted
+- original distorted
 ![image](https://user-images.githubusercontent.com/24581566/150664047-7c56fcc6-acab-4d61-a2c1-ff44154fcdbf.png)
 
 - udistorted

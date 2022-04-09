@@ -19,6 +19,7 @@ class MainWindow(QtWidgets.QMainWindow):
 
     def __init__(self, parent=None):
         super(MainWindow, self).__init__(parent)
+        
         self.form_widget = FormWidget(self)
         _widget = QtWidgets.QWidget()
         _layout = QtWidgets.QVBoxLayout(_widget)
